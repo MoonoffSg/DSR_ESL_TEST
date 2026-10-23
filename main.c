@@ -2,6 +2,7 @@
 
 
 int main(){
+    printf("Workshop 1\n")
     Vector3d vector1 = {1.4,2.1,5.6};
     Vector3d vector2 = {24.5,1.7,123.2};
     Vector3d resultVector;
